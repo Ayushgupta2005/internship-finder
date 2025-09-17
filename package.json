@@ -1,0 +1,23 @@
+{
+  "name": "internlink",
+  "version": "1.0.0",
+  "description": "Smart Internship Finder - Premium Web Application",
+  "main": "backend/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "cd backend && node server.js",
+    "build": "echo 'No build step required for static frontend'",
+    "dev": "cd backend && npm run dev"
+  },
+  "keywords": ["internship", "jobs", "students", "career", "matching"],
+  "author": "Ayush Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-validator": "^7.2.1",
+    "helmet": "^8.1.0",
+    "mongoose": "^7.0.3"
+  }
+}
