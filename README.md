@@ -7,7 +7,7 @@ A modern, premium web application designed to help students and fresh graduates 
 InternLink addresses the common challenge students face when searching for internships - finding opportunities that match their skills and career interests. Instead of manually browsing through countless job boards, students can now discover relevant internships with just a few clicks.
 
 ## 🚀 Live Demo:
-[View Live Demo]()
+[View Live Demo](https://internship-finder-gold.vercel.app)
 
 ## 🚀 Features
 
